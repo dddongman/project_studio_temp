@@ -9,6 +9,7 @@ body {
     height: 3000px;
     font-family: 'Pretendard';
     font-size: 16.45px;
+    color: #2e2e2e;
 }
 p {
     line-height: 24px;
@@ -307,7 +308,7 @@ h3 {
 }
 #fourth #card_sect #fourth_cards p {
     font-weight: 600;
-    color: #000;
+    color: #2e2e2e;
     font-size: 14px;
     line-height: 25px;
     margin-top: 15px;
